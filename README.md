@@ -13,7 +13,8 @@
 https://drive.google.com/file/d/1G060j4Bfgs4LayDE2BFWt8TgsY6wlG_F/view?usp=drive_link
 
 
-#《English ver》
+##《English ver》
+***
 It was manufactured to recognize the vulnerable part of the 3D model when outputting it from the modeling stage.
 Code writing is aided by ChatGPT.
 
