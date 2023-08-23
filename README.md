@@ -8,3 +8,6 @@
 3. threshold 값을 0.5~1까지 적절히 조정하여 코드를 실행
 4. 출력된 결과(marked_image.png)를 확인하여 취약한 부분 식별
 5. 취약한 부분이 있음에도 불구하고 No vulnerability detected 가 출력되면 threshold 값을 높여서 재시도
+
+[모델 다운로드]
+https://drive.google.com/file/d/1G060j4Bfgs4LayDE2BFWt8TgsY6wlG_F/view?usp=drive_link
