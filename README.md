@@ -11,3 +11,19 @@
 
 [모델 다운로드]
 https://drive.google.com/file/d/1G060j4Bfgs4LayDE2BFWt8TgsY6wlG_F/view?usp=drive_link
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+《English ver》
+It was manufactured to recognize the vulnerable part of the 3D model when outputting it from the modeling stage.
+Code writing is aided by ChatGPT.
+
+[How to use it]
+1. Create 2D drawings (hereinafter referred to as PNG files) using Fusion 360 or AUTOCAD for 3D models that want to identify vulnerabilities
+2. Rename PNG file to TestImage.png to upload, upload Vulnerzone Detector Model.h5 model file to user's Google drive
+3. Execute code by adjusting the threshold value to 0.5 to 1 appropriately
+4. Identify vulnerable areas by looking at the output (marked_image.png)
+5. If Novelty detected is output despite vulnerability, increase threshold value and retry
+
+[Model Download]
+https://drive.google.com/file/d/1G060j4Bfgs4LayDE2BFWt8TgsY6wlG_F/view?usp=drive_link
